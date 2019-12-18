@@ -18,7 +18,7 @@
 * [ ] C+AI Accessibility Awareness Course
 * [ ] Privacy 101
 * [ ] Standards of Business Conduct
-* [ ] (Legal 101)[https://learn.microsoft.com/activity/141371/Launch#/]
+* [ ] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 
 Azure Training
 * [ ] [DevDiv Bootcamp](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
