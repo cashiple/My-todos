@@ -12,7 +12,7 @@
 * [ ] RPs and Resources - where do I find them? (Arun)
 * [ ] Coverage Data
 * [ ] VSO Instance, Dashboards...
-  [VS Release Team What's Coming Dashboard](https://devdiv.visualstudio.com/DevDiv/_dashboards/dashboard/231e8117-89da-4264-a405-41109ad1ebfa)
+[VS Release Team What's Coming Dashboard](https://devdiv.visualstudio.com/DevDiv/_dashboards/dashboard/231e8117-89da-4264-a405-41109ad1ebfa)
 
 ## Training to Take
 [My Learning](https://microsoft.sharepoint.com/sites/infopedia/pages/my-learning.aspx)
