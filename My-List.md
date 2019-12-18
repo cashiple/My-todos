@@ -6,6 +6,7 @@
 * [ ] [DevDiv Azure DevOps](https://dev.azure.com/devdiv/DevDiv)
 * [ ] [Doc Contributor Guild](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
 * [ ] [DevDiv SharePoint](https://microsoft.sharepoint.com/teams/DevDiv/DevDivInternal/Forms/AllItems.aspx)
+* [ ] [Dev16 Release](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/978/Dev16-Release)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
