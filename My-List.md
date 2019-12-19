@@ -26,4 +26,4 @@
 
 Azure Training
 * [ ] [DevDiv Bootcamp](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
-* [ ] [Azure Engineering Bootcamp](https://microsoft.sharepoint.com/teams/WAG/Bootcamp/SitePages/Home.aspx) <font color="#008000">Jan 6 - Jan 8</font>
+* [ ] [Azure Engineering Bootcamp](https://microsoft.sharepoint.com/teams/WAG/Bootcamp/SitePages/Home.aspx) <font color="#ff0000">Jan 6 - Jan 8</font>
