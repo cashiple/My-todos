@@ -4,7 +4,7 @@
 * [ ] [DevDiv Wiki Home](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/524/DevDiv-Wiki-Home)
 * [ ] [DevDiv Bootcamp While you're waiting](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
 * [ ] [DevDiv Azure DevOps](https://dev.azure.com/devdiv/DevDiv)
-* [ ] [Doc Contributor Guild](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
+* [ ] [Doc Contributor Guilde](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
 * [ ] [DevDiv SharePoint](https://microsoft.sharepoint.com/teams/DevDiv/DevDivInternal/Forms/AllItems.aspx)
 * [ ] [Dev16 Release](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/978/Dev16-Release)
 * [ ] [Azure SDK Welcome and Onboarding](https://dev.azure.com/azure-sdk/internal/_wiki/wikis/internal.wiki/10/Welcome-and-Onboarding)
