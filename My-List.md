@@ -7,6 +7,7 @@
 * [ ] [Doc Contributor Guild](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
 * [ ] [DevDiv SharePoint](https://microsoft.sharepoint.com/teams/DevDiv/DevDivInternal/Forms/AllItems.aspx)
 * [ ] [Dev16 Release](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/978/Dev16-Release)
+* [ ] [Azure SDK Welcome and Onboarding](https://dev.azure.com/azure-sdk/internal/_wiki/wikis/internal.wiki/10/Welcome-and-Onboarding)
 * [ ] [Hypothesis OneNote](https://microsoft.sharepoint.com/teams/AzureDeveloperExperiencesCustomerResearch/SiteAssets/Azure%20Developer%20Experiences%20Customer%20Research%20Notebook/)
 * [ ] Customer Driven book (in welcome kit)
 
