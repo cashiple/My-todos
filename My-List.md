@@ -26,6 +26,7 @@
 * [ ] Standards of Business Conduct
 * [ ] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 * [x] Value Discussion
+* [ ] [KQL from scratch](https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents)
 
 Azure Training
 * [ ] [DevDiv Bootcamp](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
