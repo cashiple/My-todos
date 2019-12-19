@@ -12,6 +12,7 @@
 * [ ] Customer Driven book (in welcome kit)
 * [ ] [REST API specs](https://github.com/Azure/azure-rest-api-specs/tree/master/specification)
 * [ ] [AME Onboarding](https://dev.azure.com/azure-sdk/internal/_wiki/wikis/internal.wiki/71/AME-onboard-home)
+* [ ] [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
