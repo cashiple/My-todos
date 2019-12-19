@@ -7,6 +7,8 @@
 * [ ] [Doc Contributor Guild](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
 * [ ] [DevDiv SharePoint](https://microsoft.sharepoint.com/teams/DevDiv/DevDivInternal/Forms/AllItems.aspx)
 * [ ] [Dev16 Release](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/978/Dev16-Release)
+* [ ] [Hypothesis OneNote](https://microsoft.sharepoint.com/teams/AzureDeveloperExperiencesCustomerResearch/_layouts/OneNote.aspx?id=%2Fteams%2FAzureDeveloperExperiencesCustomerResearch%2FSiteAssets%2FAzure%20Developer%20Experiences%20Customer%20Research%20Notebook
+onenote:https://microsoft.sharepoint.com/teams/AzureDeveloperExperiencesCustomerResearch/SiteAssets/Azure%20Developer%20Experiences%20Customer%20Research%20Notebook/)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
