@@ -11,6 +11,7 @@
 * [ ] [Hypothesis OneNote](https://microsoft.sharepoint.com/teams/AzureDeveloperExperiencesCustomerResearch/SiteAssets/Azure%20Developer%20Experiences%20Customer%20Research%20Notebook/)
 * [ ] Customer Driven book (in welcome kit)
 * [ ] [REST API specs](https://github.com/Azure/azure-rest-api-specs/tree/master/specification)
+* [ ] [AME Onboarding](https://dev.azure.com/azure-sdk/internal/_wiki/wikis/internal.wiki/71/AME-onboard-home)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
