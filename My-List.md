@@ -16,6 +16,7 @@
 * [ ] [API Versioning with Swagger](https://www.hakantuncer.com/2018/09/16/api-versioning-with-swagger-azure-api-management-services-and-asp-net-core-a-frictionless-devops-experience/)
 * [ ] [Product 360](https://product360.msftcloudes.com/home)
 * [ ] [C&AI Customer Portal](https://cecustomers.microsoftonline.com/)
+* [ ] [Kusto Tutorial](https://kusto.azurewebsites.net/docs/query/tutorial.html)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
