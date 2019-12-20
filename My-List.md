@@ -23,7 +23,7 @@
 
 ## Training to Take
 [My Learning](https://microsoft.sharepoint.com/sites/infopedia/pages/my-learning.aspx)
-* [ ] Preventing Harassment
+* [x] Preventing Harassment
 * [ ] Required Learning Path
 * [ ] C+AI Accessibility Awareness Course
 * [ ] Privacy 101
