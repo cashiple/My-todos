@@ -28,7 +28,7 @@
 [My Learning](https://microsoft.sharepoint.com/sites/infopedia/pages/my-learning.aspx)
 * [x] Preventing Harassment
 * [ ] Required Learning Path
-* [ ] C+AI Accessibility Awareness Course
+* [x] C+AI Accessibility Awareness Course
 * [x] Privacy 101
 * [x] Standards of Business Conduct
 * [ ] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
