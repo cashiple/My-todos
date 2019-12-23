@@ -31,7 +31,7 @@
 * [x] C+AI Accessibility Awareness Course
 * [x] Privacy 101
 * [x] Standards of Business Conduct
-* [ ] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
+* [x] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 * [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
 * [x] Value Discussion
 * [ ] [KQL from scratch](https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents)
