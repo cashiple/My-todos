@@ -30,7 +30,7 @@
 * [ ] Required Learning Path
 * [ ] C+AI Accessibility Awareness Course
 * [x] Privacy 101
-* [ ] Standards of Business Conduct
+* [x] Standards of Business Conduct
 * [ ] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 * [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
 * [x] Value Discussion
