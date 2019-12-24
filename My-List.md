@@ -33,7 +33,13 @@
 * [x] Standards of Business Conduct
 * [x] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 * [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
-  * [ ] Moving to Cloud Cadence
+  * [x] Moving to Cloud Cadence
+  * [ ] Agile Practices at Microsoft
+  * [ ] How We Use Git at Microsoft
+  * [ ] Release Flow: Our Branching Strategy
+  * [ ] Mindset Shift to DevSecOps Culture
+  * [ ] Live Site Culture and Site Reliability Engineering
+  * [ ] Evolving Test Practices at Microsoft
 * [ ] [Live Site Azure Culture](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/live-site-culture-and-reliability)
 * [x] Value Discussion
 * [ ] [KQL from scratch](https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents)
