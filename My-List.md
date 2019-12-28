@@ -42,7 +42,7 @@
 * [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
   * [x] Moving to Cloud Cadence
   * [x] Agile Practices at Microsoft
-  * [ ] How We Use Git at Microsoft
+  * [x] How We Use Git at Microsoft
   * [ ] Release Flow: Our Branching Strategy
   * [ ] Mindset Shift to DevSecOps Culture
   * [ ] Live Site Culture and Site Reliability Engineering
