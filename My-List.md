@@ -38,7 +38,7 @@
 * [x] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
 * [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
   * [x] Moving to Cloud Cadence
-  * [ ] Agile Practices at Microsoft
+  * [x] Agile Practices at Microsoft
   * [ ] How We Use Git at Microsoft
   * [ ] Release Flow: Our Branching Strategy
   * [ ] Mindset Shift to DevSecOps Culture
