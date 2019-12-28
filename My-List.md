@@ -23,6 +23,7 @@
 * [ ] [Product 360](https://product360.msftcloudes.com/home)
 * [ ] [C&AI Customer Portal](https://cecustomers.microsoftonline.com/)
 * [ ] [Teams Integration](https://marketplace.visualstudio.com/items?itemName=ms-vsts.vss-services-teams)
+* [ ] [Deployment](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/achieving-no-downtime-versioned-service-updates)
 
 ## Things to Locate
 * [ ] RPs and Resources - where do I find them? (Arun)
