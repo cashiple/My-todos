@@ -1,4 +1,5 @@
 ## To Do Soon
+* [ ] Go thru [Creating Hello World](https://guides.github.com/activities/hello-world/) process again
 * [ ] Organize Bookmarks
 * [ ] Map out org chart
 * [ ] Grok kanban cards and boards
