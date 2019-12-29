@@ -6,6 +6,7 @@
 * [ ] Grok kanban cards and boards
 * [ ] Set up meet and green with other Release Managers
 * [ ] Figure out how to look at Git through VSO, if that's even done
+  * [ ] Start with [Azure DevOps MyInformation](https://aex.dev.azure.com/me?mkt)
 ## Resources to Read
 * [ ] [Kusto Quickstart: Learning to use Telemetry](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2522/Kusto-Quickstart-Learning-to-use-Telemetry)
 * [ ] [Kusto Tutorial](https://kusto.azurewebsites.net/docs/query/tutorial.html)
