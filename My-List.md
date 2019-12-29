@@ -1,4 +1,5 @@
 ## To Do Soon
+* [ ] Build out vocabulary list (json)
 * [ ] Questions for Mohammed
 * [ ] Arun's Mail Merge
 * [ ] Grok Arun's Azure Coverage and the Azure Global Dashboard
