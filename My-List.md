@@ -54,7 +54,7 @@
   * [x] How We Use Git at Microsoft
   * [x] Release Flow: Our Branching Strategy
   * [x] Mindset Shift to DevSecOps Culture
-  * [ ] Live Site Culture and Site Reliability Engineering
+  * [x] Live Site Culture and Site Reliability Engineering
   * [ ] Evolving Test Practices at Microsoft
 * [ ] [Live Site Azure Culture](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/live-site-culture-and-reliability)
 * [x] Value Discussion
