@@ -49,7 +49,7 @@
   * [x] Moving to Cloud Cadence
   * [x] Agile Practices at Microsoft
   * [x] How We Use Git at Microsoft
-  * [ ] Release Flow: Our Branching Strategy
+  * [x] Release Flow: Our Branching Strategy
   * [ ] Mindset Shift to DevSecOps Culture
   * [ ] Live Site Culture and Site Reliability Engineering
   * [ ] Evolving Test Practices at Microsoft
