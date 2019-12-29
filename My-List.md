@@ -55,7 +55,7 @@
   * [x] Release Flow: Our Branching Strategy
   * [x] Mindset Shift to DevSecOps Culture
   * [x] Live Site Culture and Site Reliability Engineering
-  * [ ] Evolving Test Practices at Microsoft
+  * [x] Evolving Test Practices at Microsoft
 * [ ] [Live Site Azure Culture](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/live-site-culture-and-reliability)
 * [x] Value Discussion
 * [ ] [KQL from scratch](https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents)
