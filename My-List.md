@@ -48,7 +48,7 @@
 * [x] Privacy 101
 * [x] Standards of Business Conduct
 * [x] [Legal 101](https://learn.microsoft.com/activity/141371/Launch#/)
-* [ ] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
+* [x] [DevOps at Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/index)
   * [x] Moving to Cloud Cadence
   * [x] Agile Practices at Microsoft
   * [x] How We Use Git at Microsoft
