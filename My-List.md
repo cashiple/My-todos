@@ -5,7 +5,7 @@
 * [ ] Grok Arun's Azure Coverage and the Azure Global Dashboard
 * [ ] Go thru [Creating Hello World](https://guides.github.com/activities/hello-world/) process again
   * [ ] Watch at 32:00 mark of [Release Flow](https://docs.microsoft.com/en-us/azure/devops/learn/devops-at-microsoft/release-flow) for command line creation
-* [ ] Organize Bookmarks
+* [x] Organize Bookmarks
 * [ ] Map out org chart
 * [ ] Grok kanban cards and boards
 * [ ] Set up meet and green with other Release Managers
