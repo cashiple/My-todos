@@ -13,10 +13,12 @@
 * [ ] Figure out how to look at Git through VSO, if that's even done
   * [ ] Start with [Azure DevOps MyInformation](https://aex.dev.azure.com/me?mkt)
 * [ ] Grok Static Code Analysis
+* [ ] Get access to aka.ms/clibi
 ## Resources to Read
 * [ ] [AutoREST](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
 * [ ] [Azure NetApp Files SDKs and CLI tools](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-sdk-cli)
 * [ ] [Kusto Quickstart: Learning to use Telemetry](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2522/Kusto-Quickstart-Learning-to-use-Telemetry)
+* [ ] [aka.ms/clibi](aka.ms/clibi)
 * [ ] [Difference between CRUD and REST](https://www.bmc.com/blogs/rest-vs-crud-whats-the-difference/)
 * [x] [Delivering commands working with service teams](https://microsoft.sharepoint.com/:w:/t/AzureDevExSDKCLIPartners/ERCFmLcPTeNJjeJxlAwknJUBE6n40d09Ntyj1IrXR2VVZw?e=sGxyRi)
 * [ ] [DevDiv Onboarding Resources for New Employees](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2932/Onboarding-Resources-for-New-Employees)
