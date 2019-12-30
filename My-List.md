@@ -1,6 +1,7 @@
 ## To Do Soon
 * [x] Build out vocabulary list
 * [x] Questions for Mohammed
+* [ ] Review the [Swagger Review](https://dev.azure.com/azure-sdk/internal/_wiki/wikis/internal.wiki/86/The-Swagger-review-process) page and relate it to the overall process, thoughts for James
 * [ ] Arun's Mail Merge
 * [ ] Grok Arun's Azure Coverage and the Azure Global Dashboard
 * [ ] [Open API Hub](https://portal.azure-devex-tools.com/)
