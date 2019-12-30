@@ -14,6 +14,7 @@
 * [ ] Grok Static Code Analysis
 ## Resources to Read
 * [ ] [AutoREST](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
+* [ ] [Azure NetApp Files SDKs and CLI tools](NetApp Files SDKs and CLI tools)
 * [ ] [Kusto Quickstart: Learning to use Telemetry](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2522/Kusto-Quickstart-Learning-to-use-Telemetry)
 * [ ] [Kusto Tutorial](https://kusto.azurewebsites.net/docs/query/tutorial.html)
 * [ ] [DevDiv Onboarding Resources for New Employees](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2932/Onboarding-Resources-for-New-Employees)
