@@ -1,6 +1,6 @@
 ## To Do Soon
-* [ ] Build out vocabulary list
-* [ ] Questions for Mohammed
+* [x] Build out vocabulary list
+* [x] Questions for Mohammed
 * [ ] Arun's Mail Merge
 * [ ] Grok Arun's Azure Coverage and the Azure Global Dashboard
 * [ ] [Open API Hub](https://portal.azure-devex-tools.com/)
