@@ -26,6 +26,7 @@
 * [ ] [DevDiv Wiki Home](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/524/DevDiv-Wiki-Home)
 * [ ] [DevDiv Bootcamp While you're waiting](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
 * [ ] [DevDiv Azure DevOps](https://dev.azure.com/devdiv/DevDiv)
+* [ ] [AutoRest](https://github.com/Azure/autorest/blob/master/README.md)
 * [ ] [Planning Week Content](https://microsoft.sharepoint.com/teams/AzureManagementExperience/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2FAzureManagementExperience%2FShared%20Documents%2FPlanning%2FManganese&FolderCTID=0x012000E62656DB586484429ABE5A76794473AA)
 * [ ] [James presentation to John and Julia](https://microsoft.sharepoint.com/:p:/t/DevDiv/EacWbAQm9DBHsnBbBye65_QBdcz08ts0Tqm2l7hLQv3wAQ?e=4%3AedZ2wx)
 * [ ] [Doc Contributor Guilde](https://review.docs.microsoft.com/en-us/help/contribute/?branch=master)
