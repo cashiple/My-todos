@@ -23,6 +23,7 @@
 * [ ] [Difference between CRUD and REST](https://www.bmc.com/blogs/rest-vs-crud-whats-the-difference/)
 * [x] [Delivering commands working with service teams](https://microsoft.sharepoint.com/:w:/t/AzureDevExSDKCLIPartners/ERCFmLcPTeNJjeJxlAwknJUBE6n40d09Ntyj1IrXR2VVZw?e=sGxyRi)
 * [ ] [DevDiv Onboarding Resources for New Employees](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2932/Onboarding-Resources-for-New-Employees)
+* [ ] [OpenAPI Specs](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
 * [ ] [DevDiv Wiki Home](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/524/DevDiv-Wiki-Home)
 * [ ] [DevDiv Bootcamp While you're waiting](https://dev.azure.com/devdiv/DevDiv/_wiki/wikis/DevDiv.wiki/2521/DevDiv-Bootcamp)
 * [ ] [DevDiv Azure DevOps](https://dev.azure.com/devdiv/DevDiv)
